@@ -20,7 +20,7 @@ LLM Falcon<br>
 Ensure that you have Python 3 and pip installed on your system.
 
 Clone the repository:
-git clone https://github.com/GowthamYarlagadda/Executive-Counsellor.git
+git clone https://github.com/ChatAIInfoCons/Executive-Counsellor.git
 
 
 
